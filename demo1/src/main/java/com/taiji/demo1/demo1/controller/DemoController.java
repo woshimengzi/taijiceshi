@@ -10,6 +10,6 @@ public class DemoController {
     @ResponseBody
     public  String getDemo(){
         System.out.println("DemoController.getDemo");
-        return  "hello demo fdsfds";
+        return  "hello demo fdsfds 000";
     }
 }
