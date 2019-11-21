@@ -11,7 +11,7 @@ public class DemoController {
     public  String getDemo(){
         System.out.println("DemoController.getDemo");
 
-        return  "hello demo fdsfdsn dskf ";
+        return  "hello demo fdsfdsn dskf 无法第三方 ";
 
 
 //        return  "hello demo fdsfdsn dskf000";
