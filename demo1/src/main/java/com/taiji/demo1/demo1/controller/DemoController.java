@@ -11,7 +11,7 @@ public class DemoController {
     public  String getDemo(){
         System.out.println("DemoController.getDemo");
 
-        return  "hello demo fdsfdsn dskf 11111";
+        return  "hello demo fdsfdsn dskf 11";
 
 //        return  "hello demo fdsfdsn dskf000";
 
